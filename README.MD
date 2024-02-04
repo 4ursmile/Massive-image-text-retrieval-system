@@ -12,7 +12,7 @@
     <img src="https://assets-global.website-files.com/5e6aa3e3f001fae105b8e1e7/63920ffe0f48f96db746221d_open-ai-logo-8B9BFEDC26-seeklogo.com.png" margin="5%" width="17%" />
     <img src="https://github.com/salesforce/LAVIS/raw/main/docs/_static/logo_final.png" margin="5%" width="17%" />
     <img src="https://workable-application-form.s3.amazonaws.com/advanced/production/61557f91d9510741dc62e7f8/c3635b59-a3d2-444a-b636-a9d0061dcdde" margin="5%" width="15%" />
-    <img src="https://admin.itsnicethat.com/images/vhN_fQRZHeKohK2ywvDSL_8Pnzs=/217006/format-webp%7Cwidth-1440/logo-Meta.png" margin="5%" width="15%" />
+    <img src="https://1000logos.net/wp-content/uploads/2016/11/meta-logo.png" margin="5%" width="15%" />
   </p>
 
 ## **Image-text Retrieval system**

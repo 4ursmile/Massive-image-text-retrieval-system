@@ -47,7 +47,9 @@ The composed retrieval system is a system that can search for images in a large 
     │   │   .......
     │   │   ├── ILSVRC2012_val_00050000.JPEG
   ```
+##  Use docker for virtual container or use your local machine.
 
+### 1.Use docker
   You need to install docker [Here](https://docs.docker.com/desktop/)
 
   Run following command:
@@ -69,15 +71,27 @@ The composed retrieval system is a system that can search for images in a large 
   ```console
   docker run -d -p --name circontainer cirimage .
   ```
+###  2. Use your local machine
+  ```console
+  git clone git clone https://github.com/4ursmile/Massive-image-text-retrieval-system
+  cd Massive-image-text-retrieval-system .
+  ```
+  then
+  ```console
+  pip install -r requirements.txt
+  ```
+  ```console
+  uvicorn main:app --reload
+  ```
+
   That's for backend server
   now you need to run frontend. just > open index.html in any browser.
   
 
-  Our works
+ # Our work progress
   > - [x] provide demo composed image retrieval system on image net.
   > - [ ] Allow user update image.
   > - [ ] Allow user built custom index on custom dataset.
-  ---
   ---
   ---
   
